@@ -36,7 +36,7 @@ The mean and standard deviations of these measurements were calculated, and then
 **"time_body_accelerometer_std_z_axial"**                     
 **"time_gravity_accelerometer_mean_x_axial"**           
 **"time_gravity_accelerometer_mean_y_axial"**       
-**"time_gravity_accelerometer_mean_z_axial"**
+**"time_gravity_accelerometer_mean_z_axial"**  
 **"time_gravity_accelerometer_std_x_axial"**         
 **"time_gravity_accelerometer_std_y_axial"**        
 **"time_gravity_accelerometer_std_z_axial"**     
