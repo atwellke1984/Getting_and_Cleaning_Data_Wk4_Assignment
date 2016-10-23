@@ -58,3 +58,7 @@ Before re-labelling the variables in the data set, the **tolower** function was 
 #### Creating a second, independent tidy data set with the average of each variable for each activity and each subject
 
 The **aggregate** function is used to collapse the data by subject id and activity type using a mean function. The subsequent data set is re-ordered to provide the data in ascending order by subject id and then the data is written to a text file (tidy_data_set.txt).  
+
+### CodeBook.md
+
+Please see the Code Book for details of the measurements in the tidy data set (tidy_data_set.txt).
