@@ -10,6 +10,11 @@ Subject Identification Number (1:30) - ID number associated with the participant
 **"activity_type"** 2      
 
 Type of Activity completed by the Participants 
+1. WALKING
+2. WALKING_UPSTAIRS
+3.
+
+
 1. WALKING      
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
