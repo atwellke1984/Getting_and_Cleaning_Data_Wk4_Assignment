@@ -3,8 +3,8 @@
 
 This code book provide details of the variables that are provided in the tidy dataset that is produced by the R Script (run_analysis.R) in this repository. 
 
- **"subject_ids"**&nbsp;&nbsp;1     
-        Subject Identification Number
+ **"subject_ids"** 1     
+ > Subject Identification Number
             1:30 - ID number associated with the participant that completed the experiment. 
           
  **[2] "activity_type"**         
