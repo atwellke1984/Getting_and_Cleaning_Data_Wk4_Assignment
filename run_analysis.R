@@ -63,4 +63,3 @@ tidy_data_set$subject_ids <- as.numeric(as.character(tidy_data_set$subject_ids))
 tidy_data_set <- tidy_data_set[order(tidy_data_set$subject_ids),]
 
 write.table(tidy_data_set, "tidy_data_set.txt", sep = "\t", row.names = FALSE)
-()
